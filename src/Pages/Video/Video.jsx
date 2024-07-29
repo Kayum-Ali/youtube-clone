@@ -1,4 +1,4 @@
-
+import './Video';
 
 const Video = () => {
     return (
