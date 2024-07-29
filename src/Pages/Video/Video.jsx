@@ -1,8 +1,10 @@
+import PlayVideo from '../../Components/PlayVideo/PlayVideo';
 import './Video';
 
 const Video = () => {
     return (
-        <div>
+        <div className='play-container'>
+            <PlayVideo></PlayVideo>
             
         </div>
     );
