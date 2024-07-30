@@ -9,7 +9,8 @@
   padding-left: 7%;
 }
 
-.card img {
+.card iframe,
+img {
   width: 100%;
   border-radius: 5px;
 }
